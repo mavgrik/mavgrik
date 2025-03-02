@@ -1,0 +1,12 @@
+#misc
+.DS_Store
+*.env
+
+#Remove visual studio code preference
+.vscode/
+
+#Remove under working files
+*.dis
+
+#GitHub workflow
+.github/
