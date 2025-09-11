@@ -3,11 +3,13 @@
 
 <img align="right" height="250" alt="profile image" src="Logo.svg">
 
-<div align="left">
+<div align="left" height="250">
 
   - 🎓 Freshman in **Computer, Communication and Electronic Engineering** at the **University of Trento (UNITN)**
 
   - 📚 Certified **Cisco CCNA** technician
+
+  - 💻 Experienced in **Java**, **JavaScript**, **Rust**, **C/C++**, **SQL**, **Bash** and **Docker**
 
   - 🇮🇹 Native **Italian** speaker
 
