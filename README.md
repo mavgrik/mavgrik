@@ -7,6 +7,8 @@
 
   - 🎓 Freshman in **Computer, Communication and Electronic Engineering** at the **University of Trento (UNITN)**
 
+  - 🏎️ Member of the **SW-IT** division at **E-Agle Trento Racing Team**
+
   - 📚 Certified **Cisco CCNA** technician
 
   - 💻 Experienced in **Java**, **JavaScript**, **Rust**, **C/C++**, **SQL**, **Bash** and **Docker**
