@@ -11,7 +11,7 @@
 
   - 📚 Certified **Cisco CCNA** technician
 
-  - 💻 Experienced in **Java**, **JavaScript**, **Rust**, **C/C++**, **SQL**, **Bash** and **Docker**
+  - 💻 Experienced in **Java**, **JavaScript**, **C/C++**, **SQL**, **Bash** and **Docker**
 
   - 🇮🇹 Native **Italian** speaker
 
