@@ -5,7 +5,7 @@
 
 <div align="left" height="250">
 
-  - 🎓 Freshman in **Computer, Communication and Electronic Engineering** at the **University of Trento (UNITN)**
+  - 🎓 First-year student **Computer, Communications and Electronic Engineering** at the **University of Trento (UNITN)**
 
   - 🏎️ Member of the **SW-IT** division at **E-Agle Trento Racing Team**
 
